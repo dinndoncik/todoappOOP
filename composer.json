@@ -1,0 +1,13 @@
+{
+  "name": "dbuza/untitled11",
+  "autoload": {
+    "psr-4": {
+      "dbuza\\untiled11\\": "src/"
+    }
+  },
+  "require": {
+    "phpstan/phpstan": "^1.5",
+    "phpunit/phpunit": "^9.5",
+    "friendsofphp/php-cs-fixer": "^3.8"
+  }
+}
